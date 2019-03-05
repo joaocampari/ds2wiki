@@ -10,9 +10,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis risus to
 
 ## Wiki
 
- - Principais Funcionalidades
- - Diagrama de Casos de Uso
- - Diagrama de Classes de Domínio
+ - [Pagina Inícial](https://github.com/joaocampari/ds2wiki/wiki)
+ - [Principais Funcionalidades](https://github.com/joaocampari/ds2wiki/wiki/Principais-Funcionalidades)
+ - [Diagrama de Casos de Uso ](https://github.com/joaocampari/ds2wiki/wiki/Diagramas-de-Caso-De-Uso)
+ - [Diagrama de Classes de Domínio](https://github.com/joaocampari/ds2wiki/wiki/Diagramas-de-Classe-de-Dom%C3%ADnio)
 
 ## Grupo
 |Nome| Tia |
