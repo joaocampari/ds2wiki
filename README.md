@@ -5,7 +5,7 @@ Olá! Seja bem vindo ao nosso repositório do projeto da matéria de **Desenvolv
 
 # Objetivo
 
-Criação de um intermediador entre prestadores de serviços e pessoas que procuram por serviços. 
+Criação de um intermediador entre prestadores de serviços e pessoas que procuram por serviços. <br>
 Realizando um trabalho com a mesma proposta que os aplicativos Uber, GetNinja, Rappi atualmente já fazem, porém, em outro segmento.
 
 
