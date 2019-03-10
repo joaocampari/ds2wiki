@@ -5,14 +5,16 @@ Olá! Seja bem vindo ao nosso repositório do projeto da matéria de **Desenvolv
 
 # Objetivo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis risus tortor, vitae aliquam est aliquam et. Donec sed faucibus massa, et aliquam dolor. Mauris porttitor, massa sit amet bibendum aliquam
+Criação de um intermediador entre prestadores de serviços e pessoas que procuram por serviços. 
+Realizando um trabalho com a mesma proposta que os aplicativos Uber, GetNinja, Rappi atualmente já fazem, porém, em outro segmento.
 
 
 ## Wiki
 
- - Principais Funcionalidades
- - Diagrama de Casos de Uso
- - Diagrama de Classes de Domínio
+ - [Pagina Inícial](https://github.com/joaocampari/ds2wiki/wiki)
+ - [Principais Funcionalidades](https://github.com/joaocampari/ds2wiki/wiki/Principais-Funcionalidades)
+ - [Diagrama de Casos de Uso ](https://github.com/joaocampari/ds2wiki/wiki/Diagramas-de-Caso-De-Uso)
+ - [Diagrama de Classes de Domínio](https://github.com/joaocampari/ds2wiki/wiki/Diagramas-de-Classe-de-Dom%C3%ADnio)
 
 ## Grupo
 |Nome| Tia |
