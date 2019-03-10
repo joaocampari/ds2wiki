@@ -5,7 +5,8 @@ Olá! Seja bem vindo ao nosso repositório do projeto da matéria de **Desenvolv
 
 # Objetivo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis risus tortor, vitae aliquam est aliquam et. Donec sed faucibus massa, et aliquam dolor. Mauris porttitor, massa sit amet bibendum aliquam
+Criação de um intermediador entre prestadores de serviços e pessoas que procuram por serviços. 
+Realizando um trabalho com a mesma proposta que os aplicativos Uber, GetNinja, Rappi atualmente já fazem, porém, em outro segmento.
 
 
 ## Wiki
